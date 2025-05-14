@@ -1,4 +1,4 @@
-# Glow & Go Salon - Dashboard Analysis & Business Insights
+# Glow & Go Salon - Analysis & Business Insights
 
 ## 📌 Project Overview
 A comprehensive data analysis of Glow & Go Salon's performance metrics, featuring:
