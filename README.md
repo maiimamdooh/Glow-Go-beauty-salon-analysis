@@ -43,7 +43,7 @@ If the salon considers a 10% discount on facials, the tool can estimate:
 - ✅ **Optimize Promotions:** If a 15% discount on weekdays brings more customers without hurting profit, they can implement it confidently.
 - ✅ **Dynamic Pricing:** Adjust prices during peak vs. slow days to maximize revenue.
 
-  ![Salon Dashboard Preview](https://via.placeholder.com/800x400?text=Glow+Go+Salon+Dashboard) 
+  ![Salon Dashboard Preview](https://github.com/maiimamdooh/Glow-Go-beauty-salon-analysis/blob/main/Dashboard.png) 
 
 ## Final Business Recommendations
 - Use the Monthly Sales KPI to spot trends and prepare for high/low seasons.
